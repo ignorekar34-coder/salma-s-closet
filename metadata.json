@@ -1,0 +1,6 @@
+{
+  "name": "SALMA'S CLOSET",
+  "description": "Luxury Eastern couture, winter edits, unstitched & prêt suits with seamless 1-click WhatsApp ordering and merchant admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
